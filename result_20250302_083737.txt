@@ -1,0 +1,116 @@
+ファイルが存在しないディレクトリ一覧:
+C:/Users/local-moritaka/SynologyDrive/Datas\Nas\DIY
+C:/Users/local-moritaka/SynologyDrive/Datas\Nas\Synology\SSL\familia.dsmynas.com
+C:/Users/local-moritaka/SynologyDrive/Datas\Nas\Synology\暗号鍵
+C:/Users/local-moritaka/SynologyDrive/Datas\PC／ネットワーク\20241207までの全データ
+C:/Users/local-moritaka/SynologyDrive/Datas\PC／ネットワーク\Keeweb
+C:/Users/local-moritaka/SynologyDrive/Datas\PC／ネットワーク\Microsoft365
+C:/Users/local-moritaka/SynologyDrive/Datas\PC／ネットワーク\MZK-MF300N2\mzk-mf300n2_v114
+C:/Users/local-moritaka/SynologyDrive/Datas\PC／ネットワーク\Rufus
+C:/Users/local-moritaka/SynologyDrive/Datas\PC／ネットワーク\SanDisk\SanDiskSecureAccess
+C:/Users/local-moritaka/SynologyDrive/Datas\PC／ネットワーク\WindowsDifender
+C:/Users/local-moritaka/SynologyDrive/Datas\PC／ネットワーク\ひかり電話申込\本人確認資料
+C:/Users/local-moritaka/SynologyDrive/Datas\PC／ネットワーク\プロバイダ切り替え
+C:/Users/local-moritaka/SynologyDrive/Datas\いるか\新型コロナ支援対策\月次支援金\20201003_申請
+C:/Users/local-moritaka/SynologyDrive/Datas\その他\マンション\騒音問題\騒音　古蔵台\マンション\騒音問題\騒音　古蔵台
+C:/Users/local-moritaka/SynologyDrive/Datas\その他\仏壇移動
+C:/Users/local-moritaka/SynologyDrive/Datas\その他\家計
+C:/Users/local-moritaka/SynologyDrive/Datas\その他\生命保険／医療保険\提出書類
+C:/Users/local-moritaka/SynologyDrive/Datas\その他\転職\201212\応募書類(メディアミックス)
+C:/Users/local-moritaka/SynologyDrive/Datas\その他\転職\201710\引越し関連
+C:/Users/local-moritaka/SynologyDrive/Datas\その他\転職\@@Base\201212\応募書類(メディアミックス)
+C:/Users/local-moritaka/SynologyDrive/Datas\その他\転職\@@Base\201710\引越し関連
+C:/Users/local-moritaka/SynologyDrive/Datas\その他\転職\@@Base\@@Base
+C:/Users/local-moritaka/SynologyDrive/Datas\その他\那覇市議選2021ポスター掲示場所\1回目残り
+C:/Users/local-moritaka/SynologyDrive/Datas\その他\那覇市議選2021ポスター掲示場所\一回目
+C:/Users/local-moritaka/SynologyDrive/Datas\アカウント
+C:/Users/local-moritaka/SynologyDrive/Datas\スマホ\UQmobile\本人確認書類
+C:/Users/local-moritaka/SynologyDrive/Datas\スマホ\スマホ連絡先
+C:/Users/local-moritaka/SynologyDrive/Datas\スマホ\楽天モバイル\20230401_MNP予約番号発行
+C:/Users/local-moritaka/SynologyDrive/Datas\ソトリスト
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\プランニングヴィレッヂ\office365対応
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\プランニングヴィレッヂ\南城市役所\勤務表／交通費精算\201911_西平
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\プランニングヴィレッヂ\年末調整\2018
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\プランニングヴィレッヂ\業務日報
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\プランニングヴィレッヂ\賃金規定
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\プランニングヴィレッヂ\駒形寮\トイレ水漏れ
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\副業\Uber Eats\顔写真\20230112_変更
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\副業\Wolt
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\副業\出前館 Driver\20230116_配達員登録\本人確認資料
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\副業\出前館 Driver\支払通知書
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\副業\収支管理\2025\明細書\Wolt
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\副業\収支管理\2025\明細書\出前館
+C:/Users/local-moritaka/SynologyDrive/Datas\仕事\副業\収支管理\2025\領収証
+C:/Users/local-moritaka/SynologyDrive/Datas\勉強\資格\基本情報技術者試験\H21\解答
+C:/Users/local-moritaka/SynologyDrive/Datas\勉強\資格\基本情報技術者試験\H22\解答
+C:/Users/local-moritaka/SynologyDrive/Datas\勉強\資格\基本情報技術者試験\H24\解答
+C:/Users/local-moritaka/SynologyDrive/Datas\旅行\スノボ旅行2020新潟
+C:/Users/local-moritaka/SynologyDrive/Datas\旅行\スノボ旅行2022新潟
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\マネックス証券
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Bitcoin\bitaddress.org-master\src\culture
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Bitcoin\Storehouse
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Lisk\Lisk Hub
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Lisk\Lisk nano
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Monacoin\electrum-mona_data\certs
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Monacoin\electrum-mona_data\forks
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Monacoin\electrum-mona_data\wallets
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Nem\NanoWallet-2.1.2-win64\locales
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Nem\NanoWallet-2.1.2-win64\pnacl
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Nem\NanoWallet-2.1.2-win64\swiftshader
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Nem\NanoWallet-2.3.2-win64\locales
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Nem\NanoWallet-2.3.2-win64\pnacl
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Nem\NanoWallet-2.3.2-win64\swiftshader
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Nem\NEM-Wallet-2.4.4\css\fonts
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Nem\NEM-Wallet-2.4.4\images
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Nem\NEM-Wallet-2.4.4\tests
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Nem\NEM-Wallet-2.4.4\vendors
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Ripple\ripple-paper-wallet-master\css
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Ripple\ripple-paper-wallet-master\fonts
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Ripple\ripple-paper-wallet-master\images
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Ripple\ripple-paper-wallet-master\js
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Ripple\Storehouse\100XRP
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Ripple\Storehouse\test
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\Ripple\リップルの保管方法：ペーパーウォレットの作り方 - 仮想通貨女子部！_files
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\WALLET\taihi
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\二段階認証
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\取引履歴\2018\bitbank
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\取引履歴\2018\bitflyer
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\取引履歴\2018\Coincheck
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\取引履歴\2018\zaif
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\仮想通貨\本人確認書類\顔写真\20200810
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\大和証券\口座開設\本人確認資料
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\old_AssetManagementDocuments\楽天証券
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\マネックス証券
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Bitcoin\bitaddress.org-master\src\culture
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Bitcoin\Storehouse
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Lisk\Lisk Hub
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Lisk\Lisk nano
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Monacoin\electrum-mona_data\certs
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Monacoin\electrum-mona_data\forks
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Monacoin\electrum-mona_data\wallets
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Nem\NanoWallet-2.1.2-win64\locales
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Nem\NanoWallet-2.1.2-win64\pnacl
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Nem\NanoWallet-2.1.2-win64\swiftshader
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Nem\NanoWallet-2.3.2-win64\locales
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Nem\NanoWallet-2.3.2-win64\pnacl
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Nem\NanoWallet-2.3.2-win64\swiftshader
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Nem\NEM-Wallet-2.4.4\css\fonts
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Nem\NEM-Wallet-2.4.4\images
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Nem\NEM-Wallet-2.4.4\tests
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Nem\NEM-Wallet-2.4.4\vendors
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Ripple\ripple-paper-wallet-master\css
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Ripple\ripple-paper-wallet-master\fonts
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Ripple\ripple-paper-wallet-master\images
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Ripple\ripple-paper-wallet-master\js
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Ripple\Storehouse\100XRP
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Ripple\Storehouse\test
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\Ripple\リップルの保管方法：ペーパーウォレットの作り方 - 仮想通貨女子部！_files
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\WALLET\taihi
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\二段階認証
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\取引履歴\2018\bitbank
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\取引履歴\2018\bitflyer
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\取引履歴\2018\Coincheck
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\取引履歴\2018\zaif
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\仮想通貨\本人確認書類\顔写真\20200810
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\大和証券\口座開設
+C:/Users/local-moritaka/SynologyDrive/Datas\資産運用\楽天証券
