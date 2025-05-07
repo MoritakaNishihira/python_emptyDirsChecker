@@ -5,7 +5,7 @@ from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 
 
-def is_empty_dir(dirpath):
+def is_empty_dir(dirpath:str):
     try:
         # ディレクトリ名が #recycle を含む場合はスキップ
         if "#recycle" in dirpath.lower():
@@ -18,7 +18,7 @@ def is_empty_dir(dirpath):
     return None
 
 
-def find_empty_dirs(root_dir):
+def find_empty_dirs(root_dir:str):
     empty_dirs = []
     with ThreadPoolExecutor(
         max_workers=4
